@@ -3,7 +3,6 @@
 </h3>
 
 ## About me
-
 * 💻 I'm a Civil Computer Engineering student.
 * 🌱 I'm an aspiring backend developer (my main skill).
 * 🔐 I have knowledge in cybersecurity, web security and penetration testing.
