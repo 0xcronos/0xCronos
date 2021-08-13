@@ -1,5 +1,7 @@
+<img src="./assets/images/banner.jpg" >
+
 <h3 align="center">
-  Hey, I'm Diego!</a>
+  Hey there, I'm Diego!</a>
   <img align="center" src="./assets/gifs/404.webp" width="28">
 </h3>
 
