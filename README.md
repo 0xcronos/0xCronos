@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## About me
+### About me:
 * 💻 I'm a Civil Computer Engineering student.
 * 🌱 I'm an aspiring backend developer (my main skill).
 * 🔐 I have knowledge in cybersecurity, web security and penetration testing.
