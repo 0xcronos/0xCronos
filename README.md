@@ -1,7 +1,5 @@
-<img src="./assets/images/banner.jpg" >
-
 <h3 align="center">
-Hey there, I'm <a href="https://dmcoder.dev/">Diego</a> - aka 0xCronos 
+  Hey, I'm Diego!</a>
   <img align="center" src="./assets/gifs/404.webp" width="28">
 </h3>
 
