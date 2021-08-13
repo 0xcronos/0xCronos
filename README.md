@@ -5,7 +5,8 @@
 ## About me
 
 * 💻 I'm a Civil Computer Engineering student.
-* 🌱 I am an aspiring backend developer.
-* 🎨 I have knowledge in frontend too.
+* 🌱 I'm an aspiring backend developer (my main skill).
+* 🔐 I have knowledge in cybersecurity, web security and penetration testing.
+* 🎨 I have minor knowledge in frontend.
 * 🎓 I'm currenly studying at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso.</a>
 * 🌐 You can see some of my projects on [my portfolio](https://dmcoder.dev/)
