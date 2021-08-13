@@ -18,5 +18,3 @@ Hey there, I'm <a href="https://dmcoder.dev/">Diego</a> - aka 0xCronos
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
 - 🎓I'm currenly studying at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso.</a>
 - 🌐 You can see some of my projects on [my portfolio](https://dmcoder.dev/)
-
-<hr>
