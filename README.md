@@ -12,6 +12,7 @@
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
 - 🎓 I love learning new things.
 - 🐱 I love cats.
+[![LinkedIn][linkedin-shield]][https://linkedin.com/in/diegomuñozm]
 
 <h2 align="center">My website</h2>
 <p align="center">Checkout some of the projects I've published on my portfolio.</p>
