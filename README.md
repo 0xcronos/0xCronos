@@ -1,3 +1,4 @@
+ [![LinkedIn][linkedin-shield]][linkedin-url]
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
 <br>
 <img align="center" src="./assets/images/banner.jpg" width="1280px">
@@ -12,9 +13,7 @@
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
 - 🎓 I love learning new things.
 - 🐱 I love cats.
- <hr>
- [![LinkedIn][linkedin-shield]][linkedin-url]
- <hr>
+
 <h2 align="center">My website</h2>
 <p align="center">Checkout some of the projects I've published on my portfolio.</p>
 
