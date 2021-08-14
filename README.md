@@ -2,7 +2,7 @@
 <br>
 <img src="./assets/images/banner.jpg" >
 
-#Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28">
+# Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28">
 
 <h3 align='center'>About me</h3>
 <p>I'm a 23 years old Chilean Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming.</p>
