@@ -18,6 +18,7 @@ I'm a 23 years old Chilean Civil Computer Engineering student at <a href="https:
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
 - 🎓 I love learning new things.
 - 🐱 I love cats.
+- 🌐 You can see some of my projects on [my portfolio](https://dmcoder.dev/).
 
 ### Portfolio
 
