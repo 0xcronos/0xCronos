@@ -1,12 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
-
+<br>
 <img src="./assets/images/banner.jpg" >
 
 <h3 align="center">
   Hey there, I'm Diego!</a>
   <img align="center" src="./assets/gifs/greetings.gif" width="28">
 </h3>
-
 <hr>
 
 <!-- <h3>About me</h3> -->
