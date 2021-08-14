@@ -1,20 +1,29 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
+##
+
 <img src="./assets/images/banner.jpg" >
 
 <h3 align="center">
   Hey there, I'm Diego!</a>
-  <img align="center" src="./assets/gifs/404.webp" width="28">
+  <img align="center" src="./assets/gifs/greetings.gif" width="28">
 </h3>
-
 <hr>
-
-![](https://komarev.com/ghpvc/?username=0xCronos&color=yellow)
 
 ### About me:
 
-<img align="right" alt="gif" src="./assets/gifs/about.webp" width=320>
+I'm a 23 years old Chilean Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming.
 
-- 💻 I'm a Civil Computer Engineering student.
-- 🌱 I'm an aspiring backend developer (my main skill).
+- 🌱 I'm an aspiring fullstack developer.
+- 💻 My main skill is backend development.
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
-- 🎓I'm currenly studying at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso.</a>
-- 🌐 You can see some of my projects on [my portfolio](https://dmcoder.dev/)
+- 🎓 I love learning new things.
+- 🐱 I love cats.
+
+### Portfolio
+
+Checkout some of the projects I've published on my portfolio website
+
+| <a href="https://dmcoder.dev/" target="_blank">**My portfolio**</a> |
+| :-----------------------------------------------------------------: |
+|      <img src='./assets/projects/portfolio.png' width='250px'>      |
+|   <a href="https://dmcoder.dev/" target="_blank">**Website**</a>    |
