@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
 <br>
-<img align="center" src="./assets/images/banner.jpg" width="600px">
+<img align="center" src="./assets/images/banner.jpg" width="1280px">
 
 <h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
 
@@ -42,6 +42,6 @@
 <h2 align="center">My website</h2>
 <p align="center">Checkout some of the projects I've published on my portfolio.</p>
 
-| <img align="center" src="./assets/projects/portfolio.png" width='600px'> |
-| :----------------------------------------------------------------------: |
-|      <a href="https://dmcoder.dev/" target="_blank">**Website**</a>      |
+| <img align="center" src="./assets/projects/portfolio.png" width='1280px'> |
+| :-----------------------------------------------------------------------: |
+|      <a href="https://dmcoder.dev/" target="_blank">**Website**</a>       |
