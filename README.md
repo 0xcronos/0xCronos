@@ -2,9 +2,9 @@
 <br>
 <img src="./assets/images/banner.jpg" >
 
-# Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28">
+<h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
 
-<h3 align='center'>About me</h3>
+<!-- <h2 align='center'>About me</h2> -->
 <p>I'm a 23 years old Chilean Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming.</p>
 
 - 🌱 I'm an aspiring fullstack developer.
@@ -39,9 +39,9 @@
   <img src='./assets/technologies/mongodb.svg' height='42px'>
 </p>
 
-<h3 align="center">My website</h3>
-<p>Checkout some of the projects I've published on my portfolio.</p>
+<h2 align="center">My website</h2>
+<p align="center">Checkout some of the projects I've published on my portfolio.</p>
 
-|  <img align='center' src='./assets/projects/portfolio.png' >   |
+|  <img align="center" src="./assets/projects/portfolio.png" >   |
 | :------------------------------------------------------------: |
 | <a href="https://dmcoder.dev/" target="_blank">**Website**</a> |
