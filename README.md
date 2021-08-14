@@ -13,6 +13,13 @@
 - 🎓 I love learning new things.
 - 🐱 I love cats.
 
+<h2 align="center">My website</h2>
+<p align="center">Checkout some of the projects I've published on my portfolio.</p>
+
+| <img align="center" src="./assets/projects/portfolio.png" width='1280px'> |
+| :-----------------------------------------------------------------------: |
+|      <a href="https://dmcoder.dev/" target="_blank">**Website**</a>       |
+
 <h2 align="center">Languages</h2>
 <p align="center">A summary of my main programming languages.</p>
 <p align="center">
@@ -38,10 +45,3 @@
   <img src='./assets/technologies/mysql.svg' height='42px'>
   <img src='./assets/technologies/mongodb.svg' height='42px'>
 </p>
-
-<h2 align="center">My website</h2>
-<p align="center">Checkout some of the projects I've published on my portfolio.</p>
-
-| <img align="center" src="./assets/projects/portfolio.png" width='1280px'> |
-| :-----------------------------------------------------------------------: |
-|      <a href="https://dmcoder.dev/" target="_blank">**Website**</a>       |
