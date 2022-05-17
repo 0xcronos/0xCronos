@@ -8,7 +8,6 @@
 <!-- <h2 align='center'>About me</h2> -->
 <p>I'm a 24 years old Chilean Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming.</p>
 
-- 🌱 I'm a Backend Developer.
 - 💻 My main skill is backend development.
 - 🔐 I have knowledge in cybersecurity, web security and penetration testing.
 - 🎓 I love learning new things.
