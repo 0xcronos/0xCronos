@@ -6,12 +6,11 @@
 <h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
 
 <!-- <h2 align='center'>About me</h2> -->
-<p>I'm a 24 years old Chilean Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming.</p>
+<p>I'm a Civil Computer Engineering student at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a>. I really love software development and I'm passionate about programming and offensive security.</p>
 
 - 💻 My main skill is backend development.
-- 🔐 I have knowledge in cybersecurity, web security and penetration testing.
+- 🔐 I have knowledge in offensive security, web security and penetration testing.
 - 🎓 I love learning new things.
-- 🐱 I love cats.
 
 <h2 align="center">My website</h2>
 <p align="center">Checkout some of the projects I've published on my portfolio.</p>
