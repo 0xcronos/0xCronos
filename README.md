@@ -22,19 +22,14 @@
 <h2 align="center">Programming languages</h2>
 <p align="center">A summary of the programming languages I've worked with.</p>
 <p align="center">
-  <img src='./assets/technologies/javascript.svg' height='42px' alt='javascript'>
-  <img src='./assets/technologies/typescript.svg' height='42px' alt='typescript'>
-  <img src='./assets/technologies/java.svg' height='42px' alt='java'>
   <img src='./assets/technologies/python.svg' height='42px' alt='python'>
-  <img src='./assets/technologies/php.svg' height='42px' alt='php'>
+  <img src='./assets/technologies/java.svg' height='42px' alt='java'>
   <img src='./assets/technologies/c.svg' height='42px' alt='c'>
 </p>
 
 <h2 align="center">Frameworks and runtimes</h2>
 <p align="center">A summary of the frameworks and runtimes I've worked with.</p>
 <p align="center">
-  <img src='./assets/technologies/spring.svg' height='42px' alt="spring">
-  <img src='./assets/technologies/express.svg' height='42px' alt="express"/>
   <img src='./assets/technologies/react.svg' height='42px' alt="react">
   <img src='./assets/technologies/nextjs.svg' height='42px' alt="nextjs"/>
   <img src='./assets/technologies/nodejs.svg' height='42px' alt="nodejs"/>
@@ -51,10 +46,10 @@
 <h2 align="center">Others</h2>
 <p align="center">A summary of other technologies I've worked with.</p>
 <p align="center">
-  <img src='./assets/technologies/firebase.svg' height='42px' alt="firebase">
-  <img src='./assets/technologies/heroku.svg' height='42px' alt="heroku">
   <img src='./assets/technologies/aws.svg' height='42px' alt="aws">
   <img src='./assets/technologies/linux.svg' height='42px' alt="linux">
+  <img src='./assets/technologies/firebase.svg' height='42px' alt="firebase">
+  <img src='./assets/technologies/heroku.svg' height='42px' alt="heroku">
 </p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
