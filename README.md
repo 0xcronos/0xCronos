@@ -46,8 +46,10 @@
 <h2 align="center">Others</h2>
 <p align="center">A summary of other technologies I've worked with.</p>
 <p align="center">
-  <img src='./assets/technologies/aws.svg' height='42px' alt="aws">
   <img src='./assets/technologies/linux.svg' height='42px' alt="linux">
+  <img src='./assets/technologies/docker.svg' height='42px' alt="docker">
+  <img src='./assets/technologies/kubernetes.svg' height='42px' alt="kubernetes">
+  <img src='./assets/technologies/aws.svg' height='42px' alt="aws">
   <img src='./assets/technologies/firebase.svg' height='42px' alt="firebase">
   <img src='./assets/technologies/heroku.svg' height='42px' alt="heroku">
 </p>
