@@ -12,6 +12,7 @@
 - 🔐 I have knowledge in offensive security, web security and penetration testing.
 - 🎓 I love learning new things.
 
+<!-- 
 <h2 align="center">My website</h2>
 <p align="center">Checkout some of the projects I've published on my portfolio.</p>
 
@@ -53,6 +54,6 @@
   <img src='./assets/technologies/firebase.svg' height='42px' alt="firebase">
   <img src='./assets/technologies/heroku.svg' height='42px' alt="heroku">
 </p>
-
+-->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/diegomuñozm
