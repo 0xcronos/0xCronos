@@ -8,7 +8,7 @@
 <!-- <h2 align='center'>About me</h2> -->
 <p>I'm a Civil Computer Science Engineering student<!-- at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a> -->. I really love software development and I'm passionate about programming and offensive security.</p>
 
-- 💻 One year experience working as backend developer.
+- 💻 I have one year of experience working as backend developer.
 - 🔐 I have knowledge in offensive security, web security and penetration testing.
 - 🎓 I love learning new things.
 
