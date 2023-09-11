@@ -6,8 +6,6 @@
 <br>
 <img align="center" src="./assets/images/banner.jpg" width="1280px">
 
-<h2 align='center'>About me</h2>
-
 - 💻 Backend developer.
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
 - ⚡ I like to break stuffs**
