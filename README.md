@@ -3,8 +3,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Diego!</h1>
 <h3 align="center">Civil Computer Engineering Student</h3>
-<br>
-<img align="center" src="./assets/images/banner.jpg" width="1280px">
+
 
 - 💻 Backend developer.
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
