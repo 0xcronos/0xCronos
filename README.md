@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
 <br>
 <h1 align="center">Hi 👋, I'm Diego!</h1>
-<h3 align="center">Civil Computer Engineering Student</h3>
+<h4 align="center">Civil Computer Engineering Student</h4>
 
 
 - 💻 Backend developer.
