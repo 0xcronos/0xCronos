@@ -5,6 +5,7 @@
 
 <h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
 
+
 - 💻 Backend developer.
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
 - ⚒️ Builder 'n Breaker.
@@ -12,9 +13,9 @@
 <h2 align="center">Programming languages</h2>
 <p align="center">A summary of the programming languages I've worked with.</p>
 <p align="center">
+  <img src='./assets/technologies/c.svg' height='42px' alt='c'>
   <img src='./assets/technologies/python.svg' height='42px' alt='python'>
   <img src='./assets/technologies/java.svg' height='42px' alt='java'>
-  <img src='./assets/technologies/c.svg' height='42px' alt='c'>
 </p>
 
 <!--
