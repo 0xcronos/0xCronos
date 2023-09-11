@@ -8,17 +8,9 @@
 <!-- <h2 align='center'>About me</h2> -->
 <p>I'm a Civil Computer Science Engineering student<!-- at <a href="https://www.pucv.cl/">Pontificia Universidad Católica de Valparaíso</a> -->. I really love software development and I'm passionate about programming and offensive security.</p>
 
-- 💻 I have one year of experience working as backend developer.
-- 🔐 I have knowledge in offensive security, web security and penetration testing.
+- 💻 Backend developer.
+- 🔐 Offensive security Enthusiast.
 - 🎓 I love learning new things.
-
-<!-- 
-<h2 align="center">My website</h2>
-<p align="center">Checkout some of the projects I've published on my portfolio.</p>
-
-| <img align="center" src="./assets/projects/portfolio.png" width='1280px'> |
-| :-----------------------------------------------------------------------: |
-|      <a href="https://dmcoder.dev/" target="_blank">**Website**</a>       |
 
 <h2 align="center">Programming languages</h2>
 <p align="center">A summary of the programming languages I've worked with.</p>
@@ -28,6 +20,7 @@
   <img src='./assets/technologies/c.svg' height='42px' alt='c'>
 </p>
 
+<!--
 <h2 align="center">Frameworks and runtimes</h2>
 <p align="center">A summary of the frameworks and runtimes I've worked with.</p>
 <p align="center">
