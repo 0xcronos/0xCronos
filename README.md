@@ -1,6 +1,6 @@
  [![LinkedIn][linkedin-shield]][linkedin-url]
  
-<img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
+<img align="left" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
  
 <h1 align="center">Hi 👋, I'm Diego!</h1>
 <h3 align="center">Civil Computer Engineering Student</h3>
