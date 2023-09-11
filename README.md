@@ -1,9 +1,10 @@
  [![LinkedIn][linkedin-shield]][linkedin-url]
+ 
+<h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow">
 <br>
 <img align="center" src="./assets/images/banner.jpg" width="1280px">
-
-<h2 align="center"> Hey there, I'm Diego! <img align="center" src="./assets/gifs/greetings.gif" width="28"></h2>
 
 <h2 align='center'>About me</h2>
 
