@@ -8,7 +8,7 @@
 
 - 💻 Backend developer.
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
-- ⚡ I like to break stuffs**
+- ⚡ I like to break stuffs
 
 <h2 align="center">Languages and Tools</h2>
 <h3 align="left">Languages and Tools:</h3>
