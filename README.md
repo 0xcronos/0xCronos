@@ -10,7 +10,7 @@
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
 - ⚡ I like to break stuffs.
 
-<h4 align="left">Stack</h4>
+<h4 align="left">Languages and Tools</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
