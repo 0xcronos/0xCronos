@@ -9,7 +9,7 @@
 
 - 💻 Backend developer.
 - 🔐 Cybersecurity / Offensive Security Enthusiast.
-- ⚡ I like to break stuffs.
+- ⚡ I like to break stuff.
 
 <h4 align="left">Tech Stack</h4>
 <p align="left"> 
