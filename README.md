@@ -2,13 +2,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow" />
 
 <h1 align="center">Hi! 👋 I'm Diego</h1>
-<h4 align="center">Civil Computer Engineering Student</h4>
+<h4 align="center">Civil Computer Engineer</h4>
 
 
 <br>
 
+- - 🔐 Cybersecurity / Offensive Security.
 - 💻 Backend developer.
-- 🔐 Cybersecurity / Offensive Security Enthusiast.
 - ⚡ I like to break stuff.
 
 <h4 align="left">Tech Stack</h4>
