@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0xCronos&color=yellow" />
 
 <h1 align="center">Hi! 👋 I'm Diego</h1>
-<h4 align="center">Civil Computer Engineer | eJPTv2</h4>
+<h4 align="center">Civil Computer Engineer</h4>
 
 
 <br>
