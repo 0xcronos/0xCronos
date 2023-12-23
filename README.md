@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔐 Cybersecurity / Offensive Security / Pentester.
+- 🔐 Offensive Security / Pentester.
 - 💻 Backend developer.
 - ⚡ I like to break stuff.
 
