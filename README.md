@@ -2,9 +2,9 @@
 
 Offensive security specialist focused on real-world exploitation and adversarial thinking.
 
-🏴‍☠️ Primary focus:<br> - Web vulnerability research<br> - Active Directory offensive tradecraft<br> - Wireless network hacking<br> - Malware development<br> - Phishing
+🏴‍☠️ Primary focus:<br> - Web vulnerability research<br> - Active Directory Pentesting<br> - Internal Pentesting<br> - Wireless network hacking<br> - Phishing
 
-🧠 Currently learning:<br> - EDR/XDR Evasion<br> - IaC Security
+🧠 Currently learning:<br> - EDR/XDR Evasion<br> - IaC Security<br> - Malware development
 
 📚 Certifications: CBBH | eCPPT | eJPT
 
